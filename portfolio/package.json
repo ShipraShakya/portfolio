@@ -2,10 +2,13 @@
   "name": "portfolio_nextjs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ShipraShakya.github.io/portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start"
+    
+    
   },
   "dependencies": {
     "css-loader": "^6.7.1",
